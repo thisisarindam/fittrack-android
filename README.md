@@ -1,7 +1,7 @@
 # FitTrack
 
 [![Android build](https://github.com/thisisarindam/fittrack-android/actions/workflows/android-build.yml/badge.svg)](https://github.com/thisisarindam/fittrack-android/actions/workflows/android-build.yml)
-[Download latest Android APK](https://github.com/thisisarindam/fittrack-android/actions/workflows/android-build.yml)
+[Download latest Android APK](https://github.com/thisisarindam/fittrack-android/actions/workflows/android-build.yml) (https://github.com/thisisarindam/fittrack-android/actions/runs/38032913825/artifacts/11662482447) 
 
 FitTrack is a local-first fitness tracking app built around a simple, repeatable full-body training plan. It is designed to help someone follow a structured workout schedule, log progress exercise by exercise, and keep track of completed sessions without needing a backend service or a complicated app setup.
 
